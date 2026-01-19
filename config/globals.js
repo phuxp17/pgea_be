@@ -56,7 +56,5 @@ module.exports.globals = {
       : "123456789",
   BASE_URL: process.env.BASE_URL || "http://localhost:1337",
   LOG_FILE: false,
-  GOOGLE_CLIENT_ID:
-    "956070166999-0miq3pv53vctlvtkbq6ou9g3g1vuo07q.apps.googleusercontent.com",
-  GOOGLE_CLIENT_SECRET: "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",
+  
 };
